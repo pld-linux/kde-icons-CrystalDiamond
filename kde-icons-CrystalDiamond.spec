@@ -14,12 +14,14 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-%{_name} is a realistic icon theme based on the best of Realistik, Vista Inspirate
-Nuove XT, Crystal Clear, OSX, Debian Icons and many others.
+CrystalDiamond is a realistic icon theme based on the best of
+Realistik, Vista Inspirate Nuove XT, Crystal Clear, OSX, Debian Icons
+and many others.
 
 %description -l pl
-%{_name} to motyw ikon sk³adaj±cy siê z najlepszych ikon wybranych z motywów Realistik,
-Vista Inspirate, Nuove XT, Crystal Clear, OSX, Debian Icons i wielu innych.
+CrystalDiamond to motyw ikon sk³adaj±cy siê z najlepszych ikon
+wybranych z motywów Realistik, Vista Inspirate, Nuove XT, Crystal
+Clear, OSX, Debian Icons i wielu innych.
 
 %prep
 
