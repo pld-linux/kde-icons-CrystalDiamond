@@ -1,6 +1,6 @@
 %define		_name	CrystalDiamond
 Summary:	KDE icons - %{_name}
-Summary(pl):	Motyw ikon do KDE - %{_name}
+Summary(pl.UTF-8):   Motyw ikon do KDE - %{_name}
 Name:		kde-icons-%{_name}
 Version:	2.5
 Release:	1
@@ -18,9 +18,9 @@ CrystalDiamond is a realistic icon theme based on the best of
 Realistik, Vista Inspirate Nuove XT, Crystal Clear, OSX, Debian Icons
 and many others.
 
-%description -l pl
-CrystalDiamond to motyw ikon sk³adaj±cy siê z najlepszych ikon
-wybranych z motywów Realistik, Vista Inspirate, Nuove XT, Crystal
+%description -l pl.UTF-8
+CrystalDiamond to motyw ikon skÅ‚adajÄ…cy siÄ™ z najlepszych ikon
+wybranych z motywÃ³w Realistik, Vista Inspirate, Nuove XT, Crystal
 Clear, OSX, Debian Icons i wielu innych.
 
 %prep
