@@ -2,12 +2,12 @@
 Summary:	KDE icons - %{_name}
 Summary(pl.UTF-8):	Motyw ikon do KDE - %{_name}
 Name:		kde-icons-%{_name}
-Version:	2.5
+Version:	2.6
 Release:	1
 License:	GPL
 Group:		Themes
-Source0:	http://www.hasnoname.de/Iconpacks/%{_name}%{version}Classical.tar.gz
-# Source0-md5:	d2d94e146c3f32339c4cb60a71261273
+Source0:	http://crystaldiamond.aualin.net/downloads/%{_name}%{version}_Class.tar.gz
+# Source0-md5:	ae69e7785e0fd8b89d2c4860486f6333
 URL:		http://www.paolinoland.it/
 Requires:	kdelibs
 BuildArch:	noarch
